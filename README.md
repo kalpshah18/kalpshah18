@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧐 Learning about Low Latency Systems and Machine Learning Algorithms</p>
+<p align="left">Hello! I’m Kalp Shah, a 🎓 Student driven and curious student at IIT Gandhinagar.<br>My academic journey has equipped me with a strong foundation in Computer Science, and I am especially passionate about the fascinating world of 🤖 Machine Learning.<br>I enjoy exploring how data-driven insights and intelligent algorithms can solve real-world problems.<br><br>🎓 Student at IIT Gandhinagar<br>💻 Passionate about technology, coding, and problem-solving<br>🌱 Interested in software development, open-source, and innovative projects<br><br>What I Do?<br><br>🧑‍💻 Explore new programming languages and frameworks<br>📚 Work on academic and personal projects in computer science<br>🏆 Participate in coding competitions and hackathons</p>
 
 ###
 
@@ -53,6 +53,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="https://www.youtube.com/@KalpShah18" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -64,10 +66,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
 
 ###
 
