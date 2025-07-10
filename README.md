@@ -1,4 +1,4 @@
-<h2 align="left">Kalp Shah</h2>
+<h2 align="center">Kalp Shah</h2>
 
 ###
 
