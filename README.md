@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I’m Kalp Shah, a Sophomore at IIT Gandhinagar.<br>My academic journey has equipped me with a strong foundation in Computer Science, and I am especially passionate about the fascinating world of Machine Learning<br>I enjoy solving Hard Math Problems and keenly pursue Algorithmic Development.<br><br>What I Do?<br><br>Explore new programming languages and frameworks<br>Work on academic and personal projects in computer science<br>Participate in competitive programming competitions</p>
+<p align="left">Hello! I’m Kalp Shah, a Junior at IIT Gandhinagar.<br>My academic journey has equipped me with a strong foundation in Computer Science, and I am especially passionate about the fascinating world of Machine Learning<br>I enjoy solving Hard Math Problems and keenly pursue Algorithmic Development.<br><br>What I Do?<br><br>Explore new programming languages and frameworks<br>Work on academic and personal projects in computer science<br>Participate in competitive programming competitions</p>
 
 ###
 
