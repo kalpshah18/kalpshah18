@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Kalp Shah. Low-latency C++, quant and ML." src="assets/hero-light.svg" width="100%">
+  <img alt="Kalp Shah. ML infrastructure and computer vision." src="assets/hero-light.svg" width="100%">
 </picture>
 
 ```console
@@ -8,9 +8,9 @@ $ whoami
 Kalp Shah. B.Tech Electrical Engineering, Minor in CSE (2024-28), IIT Gandhinagar
 
 $ cat focus.txt
-systems   low-latency C++, matching engines, emulators
-quant     market microstructure, mechanism design, scheduling
-ai/ml     computer vision, single-view metrology, RAG pipelines
+ml infra  GPU cluster scheduling, streaming data pipelines, RAG systems
+ai/ml     computer vision, single-view metrology, deep learning
+systems   C++, matching engines, emulators
 
 $ cat next.txt
 Quantitative Developer Intern @ Graviton Research Capital (2027)
@@ -45,7 +45,7 @@ CHIP-8 interpreter with SDL2: all 34 opcodes, 4 KB memory, 16-level stack, 64×3
 <td width="50%" valign="top">
 
 **[Fairness and Efficiency in Shared GPU Allocation](https://drive.google.com/file/d/1uprvcMUWQ_vRBFq5DtTMwSuMrfqwRffF/view?usp=sharing)** · report<br>
-`quant`
+`ml infra`
 
 Simulator for shared GPU clusters that tests scheduling mechanisms on efficiency, long-run fairness and resistance to strategic misreporting. A history-penalised scoring rule reaches >95% of theoretical welfare and Jain's Index ~0.991 while neutralising priority inflation.
 
@@ -57,7 +57,7 @@ Advisor: Prof. Manisha Padala
 <td width="50%" valign="top">
 
 **[Realtime Carbon Credit Market Platform](https://github.com/kalpshah18/InterIITTech_)**<br>
-`systems` `ai/ml`
+`ml infra` `ai/ml`
 
 Full-stack analytics platform serving live carbon credit pricing, trend signals and risk analysis, built by an 8-person team at Inter IIT Tech Meet 14.0. Kafka + Debezium change-data-capture cut data freshness from 60 minutes to under 3 seconds; a multi-agent RAG system generates recommendations from scraped data.
 
@@ -100,9 +100,9 @@ Advisor: Prof. Shanmuganathan Raman
 ## Stack
 
 ```console
-languages   C++, C, Python, SQL, JavaScript
+languages   Python, C++, C, SQL, JavaScript
 ml / cv     PyTorch, OpenCV, scikit-learn, NumPy, Pandas, LangChain
-backend     FastAPI, PostgreSQL, Kafka, Debezium
+infra       FastAPI, PostgreSQL, Kafka, Debezium
 tools       Linux, Git, Docker, CMake, SDL2, Jupyter
 ```
 
